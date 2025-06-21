@@ -1,5 +1,5 @@
 # airbnb-clone-project
-[For ProDev Backend](#For Pro DevBack-end)
+-[For ProDev Backend](# For ProDevBack-end)
 # 🏠 AirBnB Clone Project
 
 ## 📌 Project Overview
@@ -141,7 +141,7 @@ The footer component will provide:
 - 📱 **Responsiveness**: Each component will adapt to various screen sizes using mobile-first design.
 
 These components will serve as building blocks for scalable UI architecture and enhance user experience across the application.
-# For Pro DevBack-end 
+# For ProDevBack-end 
 
 ## 👥 Team Roles
 
