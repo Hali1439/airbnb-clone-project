@@ -1,6 +1,18 @@
 # airbnb-clone-project
--[For ProDev Backend](# For ProDevBack-end)
+## 📚 Table of Contents
+
+- [ProDev Frontend](#prodev-frontend)
+- [ProDev Backend](#prodev-backend)
+- [Database Design](#database-design)
+- [Feature Breakdown](#feature-breakdown)
+- [API Security](#api-security)
+- [CI/CD Pipeline](#cicd-pipeline)
+- [Team Roles](#team-roles)
+
+
 # 🏠 AirBnB Clone Project
+
+#prodev-frontend
 
 ## 📌 Project Overview
 This is a full-stack clone of the popular AirBnB platform. 
@@ -141,7 +153,8 @@ The footer component will provide:
 - 📱 **Responsiveness**: Each component will adapt to various screen sizes using mobile-first design.
 
 These components will serve as building blocks for scalable UI architecture and enhance user experience across the application.
-# For ProDevBack-end 
+
+#prodev-backend 
 
 ## 👥 Team Roles
 
